@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"រកមើល​ទៅ​ដើម"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"រកមើល​ឡើងលើ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ជម្រើស​ច្រើន​ទៀត"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"រួចរាល់"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"មើល​ទាំងអស់"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ជ្រើស​កម្មវិធី​​"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"បិទ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"បើក"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ស្វែងរក…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"សម្អាត​សំណួរ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ស្វែងរក​សំណួរ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ស្វែងរក"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ដាក់​​​ស្នើ​សំណួរ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ការស្វែងរក​សំឡេង"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ចែករំលែក​ជាមួយ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ចែករំលែក​ជាមួយ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"បង្រួម"</string>
+    <string name="accessibility_mode">ម៉ូដកាមេរ៉ា</string>
+    <string name="accessibility_setting">ការកំណត់</string>
+    <string name="accessibility_shutter">"ប៊ូតុង​​ការពារ"</string>
+    <string name="accessibility_switch_to_panorama">ម៉ូដ​សព្វទស្សន៍</string>
+    <string name="accessibility_thumbnail">"រូបថត​ថ្មី​បំផុត"</string>
+    <string name="aeaf_lock_indicator">សោ AE/AF</string>
+    <string name="ais_title">ទប់លំនឹង</string>
+    <string name="asd_hdr_guide">បើក HDR អាច​នឹង​ទទួល​បាន​បែបផែន​រូបថត​កាន់តែ​ប្រសើរ</string>
+    <string name="camera_label">"ម៉ាស៊ីន​ថត"</string>
+    <string name="can_not_use_storage">មិនមាន SD កាត</string>
+    <string name="continuous_saving_pictures">កំពុងរក្សាទុក  <ns1:g example="10" id="numbers">%1$d</ns1:g> រូបភាព </string>
+    <string name="microphone_title">"មីក្រូហ្វូន"</string>
+    <string name="mode_fragment_title">ម៉ូដ</string>
+    <string name="noise_reduction_title">ការបន្ថយសំឡេង</string>
+    <string name="normal_mode_title">"ធម្មតា"</string>
+    <string name="pano_dialog_title">"ទេសភាព"</string>
+    <string name="panorama_guide_capture">ផ្លាស់ទីឧបករណ៍ទៅដាក់ឲ្យត្រួតគ្នាលើបន្ទាត់ពីរ</string>
+    <string name="panorama_guide_choose_direction">ផ្លាស់ទីឧបករណ៍​ទៅកាន់ទិសដៅចាប់រូបភាពរបស់អ្នក</string>
+    <string name="panorama_guide_shutter">ចុចប៊ូតុងបិទ ដើម្បីចាប់ផ្តើមចាប់យករូបភាពសព្វទស្សន៍</string>
+    <string name="pref_af_mode_multi">AF សម្រាប់ពហុចំណុច</string>
+    <string name="pref_af_mode_single">AF សម្រាប់ចំណុចទោល</string>
+    <string name="pref_af_mode_title">ម៉ូដ AF</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="pref_camera_antibanding_entry_off">បិទ</string>
+    <string name="pref_camera_antibanding_title">ប្រឆាំងពន្លឺភ្លឹបភ្លែត</string>
+    <string name="pref_camera_brightness_title">ភាពភ្លឺចាំង</string>
+    <string name="pref_camera_coloreffect_entry_aqua">ពណ៌ទឹក</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">ក្តាខ្មៅ</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">ស្នាមផ្ទៃមេឃ</string>
+    <string name="pref_camera_coloreffect_entry_greentint">ស្នាមពណ៌ខៀវ</string>
+    <string name="pref_camera_coloreffect_entry_hefe">ភាពយន្ត</string>
+    <string name="pref_camera_coloreffect_entry_lofi">ស្អាតៗ</string>
+    <string name="pref_camera_coloreffect_entry_mono">ម៉ូណូ</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">ការផ្គុំរូបតូចៗ</string>
+    <string name="pref_camera_coloreffect_entry_nashville">ស្រស់ៗ</string>
+    <string name="pref_camera_coloreffect_entry_negative">ហ្វ៊ិលរូបថត</string>
+    <string name="pref_camera_coloreffect_entry_none">គ្មានទេ</string>
+    <string name="pref_camera_coloreffect_entry_pastel">ប៉ាស្តែល</string>
+    <string name="pref_camera_coloreffect_entry_posterize">ការបំផ្លែងពណ៌</string>
+    <string name="pref_camera_coloreffect_entry_redtint">ស្នាមក្រហម</string>
+    <string name="pref_camera_coloreffect_entry_sepia">សេភា</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">សេភាផ្ទៃមេឃ</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">សេភាខៀវ</string>
+    <string name="pref_camera_coloreffect_entry_sierra">ស្រស់សង្ហារ</string>
+    <string name="pref_camera_coloreffect_entry_solarize">ចាំងពន្លឺព្រះអាទិត្យខ្លាំង</string>
+    <string name="pref_camera_coloreffect_entry_valencia">ស្ងប់ស្អាត់</string>
+    <string name="pref_camera_coloreffect_entry_walden">ស្ងប់ស្ងាត់</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">ក្តាស</string>
+    <string name="pref_camera_coloreffect_entry_xproll">សតិ</string>
+    <string name="pref_camera_coloreffect_title">អនុភាពពណ៌</string>
+    <string name="pref_camera_contrast_title">ភាពមិនភ្លឺចាំង</string>
+    <string name="pref_camera_dip_entry_high">ខ្ពស់</string>
+    <string name="pref_camera_dip_entry_low">ទាប</string>
+    <string name="pref_camera_dip_entry_middle">មធ្យម</string>
+    <string name="pref_camera_edge_title">ភាពច្បាស់ល្អ</string>
+    <string name="pref_camera_hue_title">ភាពលាំៗ</string>
+    <string name="pref_camera_image_properties_default">សិតពីរោងចក្រ</string>
+    <string name="pref_camera_image_properties_title">លក្ខណៈរបស់រូប</string>
+    <string name="pref_camera_iso_entry_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="pref_camera_picturesize_title">ទំហំរូបភាព</string>
+    <string name="pref_camera_saturation_title">ពណ៌ឆ្អែត</string>
+    <string name="pref_camera_scenemode_entry_action">សកម្មភាព</string>
+    <string name="pref_camera_scenemode_entry_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="pref_camera_scenemode_entry_beach">ឆ្នេរសមុទ្រ</string>
+    <string name="pref_camera_scenemode_entry_candlelight">ពន្លឺទៀន</string>
+    <string name="pref_camera_scenemode_entry_fireworks">កាំជ្រួច</string>
+    <string name="pref_camera_scenemode_entry_landscape">ផ្តេក</string>
+    <string name="pref_camera_scenemode_entry_night">យប់</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">បញ្ឈរពេលយប់</string>
+    <string name="pref_camera_scenemode_entry_off">បិទ</string>
+    <string name="pref_camera_scenemode_entry_party">ជប់លៀង</string>
+    <string name="pref_camera_scenemode_entry_portrait">បញ្ឈរ</string>
+    <string name="pref_camera_scenemode_entry_snow">ព្រិល</string>
+    <string name="pref_camera_scenemode_entry_sports">កីឡា</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">រូបថតនឹង</string>
+    <string name="pref_camera_scenemode_entry_sunset">ថ្ងៃលិច</string>
+    <string name="pref_camera_scenemode_entry_theatre">រោងល្ខោន</string>
+    <string name="pref_camera_scenemode_title">ម៉ូដទេសភាព</string>
+    <string name="pref_camera_whitebalance_entry_auto">ស្វ័យប្រវត្តិ</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">ពពកច្រើន</string>
+    <string name="pref_camera_whitebalance_entry_daylight">ពន្លឺពេលថ្ងៃ</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">ពន្លឺចាំង</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">ដែលក្តៅឡើងស</string>
+    <string name="pref_camera_whitebalance_entry_shade">ស្រមោល</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">តង់ស្តែន</string>
+    <string name="pref_camera_whitebalance_entry_twilight">ពណ៌ថ្ងៃលិច</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">ពន្លឺចាំងពណ៌ក្តៅ</string>
+    <string name="pref_camera_whitebalance_title">សមតុល្យពណ៌ស</string>
+    <string name="pref_thermal_dialog_content">សីតុណ្ហភាព​គ្រឿង​ឧបករណ៍/​ទូរសព្ទ​ឡើង​ខ្ពស់​ពេកហើយ​កាមេរ៉ា​នឹង​​ស្វ័យ​ចាកចេញ​ក្នុង​រយៈពេល30វិនាទី។សូម​ព្យាយាម​ប្រើ​វា​លើក​ក្រោយ​ទៀត។</string>
+    <string name="pref_thermal_dialog_content_launch">សីតុណ្ហភាព​គ្រឿង​ឧបករណ៍/​ទូរសព្ទ​ឡើង​ខ្ពស់​ពេកសូម​មេត្តា​ប្រើ​កាមេរ៉ា​នៅ​ពេល​ក្រោយ​ទៀត។</string>
+    <string name="pref_thermal_dialog_title">ការព្រមាន</string>
+    <string name="pref_thermal_preview_toast">ប៉ះអេក្រង់ដើម្បីបន្ត។</string>
+    <string name="saving_dialog_default_string">កំពុងរក្សាទុក ...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ស្វែងរក"</string>
+    <string name="self_timer_entry_10">10 វិនាទី</string>
+    <string name="self_timer_entry_2">2 វិនាទី</string>
+    <string name="self_timer_entry_off">បិទ</string>
+    <string name="self_timer_title">ដាក់ម៉ោងដោយខ្លួនឯង</string>
+    <string name="setting_title">"ការ​កំណត់"</string>
+    <string name="shutter_speed_entry_1">១ វិនាទី</string>
+    <string name="shutter_speed_entry_16">១៦ វិនាទី</string>
+    <string name="shutter_speed_entry_2">"២ វិនាទី"</string>
+    <string name="shutter_speed_entry_4">"៤ វិនាទី"</string>
+    <string name="shutter_speed_entry_8">"៨ វិនាទី"</string>
+    <string name="shutter_speed_entry_auto">"ស្វ័យប្រវត្តិ"</string>
+    <string name="shutter_speed_title">ល្បឿនចាប់យករូបភាព</string>
+    <string name="shutter_type_photo">រូបភាព</string>
+    <string name="shutter_type_video">"វីដេអូ​"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">ឧបករណ៍ផ្ទុកទិន្នន័យលំនាំដើមពេញហើយ សូមបញ្ចេញទំហំខ្លះ ឬ គ្រប់គ្រងជម្រើសឧបករណ៍ផ្ទុកទិន្នន័យក្នុងការកំណត់</string>
+    <string name="video_bad_performance_auto_stop">អង្គចងចាំទាប បញ្ឈប់ការថតដោយស្វ័យប្រវត្តិ ។</string>
+    <string name="video_bad_performance_drop_quality">អង្គចងចាំទាប ប្តូរគុណភាពរូបដោយស្វ័យប្រវត្តិ ។</string>
+    <string name="video_camera_label">កាមេរ៉ាវីដេអូតូច</string>
+    <string name="video_quality_title">"គុណភាព​វីដេអូ"</string>
+    <string name="video_reach_size_limit">"បាន​ដល់​​ដែន​កំណត់​ទំហំ។"</string>
+    <string name="video_recording_error">កំហុសក្នុងពេលកំពុងថត!</string>
+    <string name="video_recording_not_available">សូមបញ្ឈប់កម្មវិធីថតផ្សេងទៀត នៅមុនពេលប្រើកាមេរ៉ាវីដេអូ ។</string>
+</resources>

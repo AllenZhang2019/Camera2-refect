@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="freemeabout_title_color">#333333</color>
+    <color name="freemeabout_hint_color">#999999</color>
+    <color name="freemeabout_rightcopy_color">#cccccc</color>
+    <color name="freemeabout_text_color">#ffffff</color>
+</resources>

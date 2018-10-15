@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/freeme_iko_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/intent_review_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:scaleType="fitCenter"
+        android:visibility="gone" />
+    <ImageView
+        android:id="@+id/handle_progressing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:background="@drawable/iko_processing"
+        android:visibility="gone" />
+    <TextView
+        android:id="@+id/iko_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/freeme_iko_capture_seach"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/freeme_iko_search"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:visibility="visible"
+        android:layout_marginBottom="90dp"/>
+
+</RelativeLayout>

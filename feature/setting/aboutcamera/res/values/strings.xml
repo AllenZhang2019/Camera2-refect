@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_camera_title" translatable="false">About Camera</string>
+    <string name="about_camera_content_description" translatable="false">About Camera</string>
+    <string name="freemeabout">about</string>
+    <string name="freemeabout_current_version">Current version</string>
+    <string name="freemeabout_official_website">Official Website</string>
+    <string name="freemeabout_official_forum">Official forum</string>
+    <string name="freemeabout_official_website_value">www.freemeos.com</string>
+    <string name="freemeabout_official_forum_value">http://bbs.droi.com</string>
+    <string name="freemeabout_copy_right">Shanghai Droi Technology Co., Ltd.</string>
+    <string name="freemeabout_droi">Copyright©2018, Droi .All Rights Reserved</string>
+    <string name="freemeabout_detail_msg">Details</string>
+    <string name="freemeabout_channel_number">Channel number</string>
+    <string name="freemeabout_customer_number">Customer number</string>
+    <string name="freemeabout_click_times">Still need to click </string>
+    <string name="freemeabout_click_intent">time to interface to jump to the detailed information for you</string>
+    <string name="freemeabout_settings">Settings</string>
+</resources>

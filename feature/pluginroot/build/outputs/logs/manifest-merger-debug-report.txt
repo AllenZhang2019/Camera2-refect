@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/1c8f5486ba159d637d946cf06109d711/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/adff58898ea46ec1e4868cac6c43133a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/7429e578517f55796cba3e28ae71a696/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/0b07c709a9f587f3a26971d3bbfffc8a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ddbce13782afdcc3bb019721b821d100/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7930a5a089cea9ecae31e1935d44cb91/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4e9b1a9717640af69e8da40de8a4f9bd/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/22fdc6db3eb47e07de5263c7af2c03df/AndroidManifest.xml:17:1-27:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:2:5-37
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:4:5-30
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml:3:5-28
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/1c8f5486ba159d637d946cf06109d711/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/1c8f5486ba159d637d946cf06109d711/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/adff58898ea46ec1e4868cac6c43133a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/adff58898ea46ec1e4868cac6c43133a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/7429e578517f55796cba3e28ae71a696/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/7429e578517f55796cba3e28ae71a696/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/0b07c709a9f587f3a26971d3bbfffc8a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/0b07c709a9f587f3a26971d3bbfffc8a/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ddbce13782afdcc3bb019721b821d100/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ddbce13782afdcc3bb019721b821d100/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7930a5a089cea9ecae31e1935d44cb91/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7930a5a089cea9ecae31e1935d44cb91/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4e9b1a9717640af69e8da40de8a4f9bd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4e9b1a9717640af69e8da40de8a4f9bd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/22fdc6db3eb47e07de5263c7af2c03df/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/22fdc6db3eb47e07de5263c7af2c03df/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		ADDED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+		INJECTED from /home/luoran/code/1012/Camera2/feature/pluginroot/AndroidManifest.xml
+application
+ADDED from [com.android.support:appcompat-v7:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/1c8f5486ba159d637d946cf06109d711/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/1c8f5486ba159d637d946cf06109d711/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/adff58898ea46ec1e4868cac6c43133a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/adff58898ea46ec1e4868cac6c43133a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/7429e578517f55796cba3e28ae71a696/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/7429e578517f55796cba3e28ae71a696/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/0b07c709a9f587f3a26971d3bbfffc8a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/0b07c709a9f587f3a26971d3bbfffc8a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ddbce13782afdcc3bb019721b821d100/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ddbce13782afdcc3bb019721b821d100/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7930a5a089cea9ecae31e1935d44cb91/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/7930a5a089cea9ecae31e1935d44cb91/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4e9b1a9717640af69e8da40de8a4f9bd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-core-ui-24.2.1.aar/4e9b1a9717640af69e8da40de8a4f9bd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/22fdc6db3eb47e07de5263c7af2c03df/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/luoran/.gradle/caches/transforms-1/files-1.1/support-compat-24.2.1.aar/22fdc6db3eb47e07de5263c7af2c03df/AndroidManifest.xml:25:5-20

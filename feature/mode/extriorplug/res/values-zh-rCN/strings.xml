@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="qrcodescan_dialog_title">二维码</string>
+    <string name="pose_dialog_title">模特</string>
+    <string name="water_dialog_title">水印</string>
+    <string name="children_dialog_title">儿童</string>
+    <string name="large_dialog_title">大片</string>
+</resources>
+

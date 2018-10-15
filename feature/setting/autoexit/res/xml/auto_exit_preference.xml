@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freeme.camera.common.preference.SwitchPreference
+        android:key="key_auto_exit"
+        android:title="@string/auto_exit_title"
+        android:persistent="false"
+        android:order="130"/>
+
+</PreferenceScreen>

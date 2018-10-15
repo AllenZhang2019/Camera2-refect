@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="camera_gray_background">#1b1b1b</color>
+    <color name="setting_title_background">#ff263238</color>
+    <color name="grid_line">#33FFFFFF</color>
+    <color name="shutter_title_normal_color">#ffffffff</color>
+    <color name="shutter_title_select_color">#FFA500</color>
+</resources>

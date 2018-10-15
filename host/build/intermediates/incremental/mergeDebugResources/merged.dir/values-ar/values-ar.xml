@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="accessibility_mode">وضع الكاميرا</string>
+    <string name="accessibility_setting">إعداد</string>
+    <string name="accessibility_shutter">"زر المصراع"</string>
+    <string name="accessibility_switch_to_panorama">وضع بانوراما</string>
+    <string name="accessibility_thumbnail">"أحدث صورة"</string>
+    <string name="aeaf_lock_indicator">قفل AE/AF</string>
+    <string name="ais_title">مضاد للاهتزاز</string>
+    <string name="asd_hdr_guide">تشغيل تقنية HDR للحصول على أفضل تأثير على الصور</string>
+    <string name="camera_label">"الكاميرا"</string>
+    <string name="can_not_use_storage">بطاقة SD غير متاحة</string>
+    <string name="continuous_saving_pictures">حفظ  <ns1:g example="10" id="numbers">%1$d</ns1:g> صورة </string>
+    <string name="microphone_title">"ميكروفون"</string>
+    <string name="mode_fragment_title">الأوضاع</string>
+    <string name="noise_reduction_title">تقليل التشويش</string>
+    <string name="normal_mode_title">"عادية"</string>
+    <string name="pano_dialog_title">"عرضبانورامي"</string>
+    <string name="panorama_guide_capture">حركالجهازلتداخلالخطين</string>
+    <string name="panorama_guide_choose_direction">حركالجهازإلىاتجاهالالتقاط</string>
+    <string name="panorama_guide_shutter">اضغط على زر الغالق لبدء التقاط صورة بانورامية</string>
+    <string name="pref_af_mode_multi">تركيز تلقائي متعدد المناطق</string>
+    <string name="pref_af_mode_single">تركيز تلقائي أحادي النقطة</string>
+    <string name="pref_af_mode_title">وضع التركيز التلقائي</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 هرتز</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 هرتز</string>
+    <string name="pref_camera_antibanding_entry_auto">تلقائي</string>
+    <string name="pref_camera_antibanding_entry_off">"إيقاف"</string>
+    <string name="pref_camera_antibanding_title">مقاوم للوميض</string>
+    <string name="pref_camera_brightness_title">السطوع</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"أزرق مائي"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">لوحة سوداء</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"أزرق خفيف"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"أخضر خفيف"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">فيلم</string>
+    <string name="pref_camera_coloreffect_entry_lofi">رائع</string>
+    <string name="pref_camera_coloreffect_entry_mono">"أحادي"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"فسيفساء"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">نقيّ</string>
+    <string name="pref_camera_coloreffect_entry_negative">"سلبي"</string>
+    <string name="pref_camera_coloreffect_entry_none">"لا شيء"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"تصوير ملون"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"تتالي"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"أحمر خفيف"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"بني داكن"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">أزرق بني</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">أخضر بني</string>
+    <string name="pref_camera_coloreffect_entry_sierra">ممتاز</string>
+    <string name="pref_camera_coloreffect_entry_solarize">تشميس</string>
+    <string name="pref_camera_coloreffect_entry_valencia">ساكن</string>
+    <string name="pref_camera_coloreffect_entry_walden">"رائع"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">لوحة بيضاء</string>
+    <string name="pref_camera_coloreffect_entry_xproll">ذاكرة</string>
+    <string name="pref_camera_coloreffect_title">مؤثر الألوان</string>
+    <string name="pref_camera_contrast_title">التضاد</string>
+    <string name="pref_camera_dip_entry_high">عال</string>
+    <string name="pref_camera_dip_entry_low">منخفض</string>
+    <string name="pref_camera_dip_entry_middle">الوسط</string>
+    <string name="pref_camera_edge_title">الحدة</string>
+    <string name="pref_camera_hue_title">طيف</string>
+    <string name="pref_camera_image_properties_default">"افتراضي"</string>
+    <string name="pref_camera_image_properties_title">خصائص الصورة</string>
+    <string name="pref_camera_iso_entry_auto">تلقائي</string>
+    <string name="pref_camera_picturesize_title">"حجم الصورة"</string>
+    <string name="pref_camera_saturation_title">امتلاء</string>
+    <string name="pref_camera_scenemode_entry_action">"الإجراء"</string>
+    <string name="pref_camera_scenemode_entry_auto">"تلقائي"</string>
+    <string name="pref_camera_scenemode_entry_beach">شاطئ</string>
+    <string name="pref_camera_scenemode_entry_candlelight">"ضوء الشموع"</string>
+    <string name="pref_camera_scenemode_entry_fireworks">ألعاب نارية</string>
+    <string name="pref_camera_scenemode_entry_landscape">وضع أفقي</string>
+    <string name="pref_camera_scenemode_entry_night">"ليلي"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">صورة ليلية</string>
+    <string name="pref_camera_scenemode_entry_off">"إيقاف"</string>
+    <string name="pref_camera_scenemode_entry_party">"مجموعة"</string>
+    <string name="pref_camera_scenemode_entry_portrait">وضع عمودي</string>
+    <string name="pref_camera_scenemode_entry_snow">ثلج</string>
+    <string name="pref_camera_scenemode_entry_sports">"الإجراء"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">صورة ثابتة</string>
+    <string name="pref_camera_scenemode_entry_sunset">"الغروب"</string>
+    <string name="pref_camera_scenemode_entry_theatre">مسرح</string>
+    <string name="pref_camera_scenemode_title">"وضع المشهد"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"تلقائي"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"غائم"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"نهاري"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"فلورسنت"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"براق"</string>
+    <string name="pref_camera_whitebalance_entry_shade">ظل</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">تنجستن</string>
+    <string name="pref_camera_whitebalance_entry_twilight">شفق</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">ضوء فلورسنت دافئ</string>
+    <string name="pref_camera_whitebalance_title">"موازنة اللون الأبيض"</string>
+    <string name="pref_thermal_dialog_content">درجةحرارةالجهازمرتفعةللغايةوجاريالخروجمنالكاميرافيغضون30ثانيةتلقائيًا،يرجىالمحاولةلاحقًا.</string>
+    <string name="pref_thermal_dialog_content_launch">درجةحرارةالجهازمرتفعةللغاية،يرجىاستخدامالكاميرالاحقًا.</string>
+    <string name="pref_thermal_dialog_title">تحذير</string>
+    <string name="pref_thermal_preview_toast">انقر الشاشة باللمس للاستمرار</string>
+    <string name="saving_dialog_default_string">جار الحفظ...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="self_timer_entry_10">10 ثوان</string>
+    <string name="self_timer_entry_2">2 ثانية</string>
+    <string name="self_timer_entry_off">"إيقاف"</string>
+    <string name="self_timer_title">مؤقت ذاتي</string>
+    <string name="setting_title">"الإعدادات"</string>
+    <string name="shutter_speed_entry_1">1 ثانية</string>
+    <string name="shutter_speed_entry_16">16 ثانية</string>
+    <string name="shutter_speed_entry_2">"ثانيتان"</string>
+    <string name="shutter_speed_entry_4">"4 ثوانٍ"</string>
+    <string name="shutter_speed_entry_8">"8 ثوانٍ"</string>
+    <string name="shutter_speed_entry_auto">"تلقائي"</string>
+    <string name="shutter_speed_title">سرعة الغالق</string>
+    <string name="shutter_type_photo">"صورة"</string>
+    <string name="shutter_type_video">"فيديو"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="storage_full">وحدة التخزين الافتراضية ممتلئة، يرجى تفريغ بعض المساحة أو إدارة خيارات التخزين في الإعدادات.</string>
+    <string name="video_bad_performance_auto_stop">الذاكرة منخفضة، سيتم إيقاف التسجيل تلقائيًا.</string>
+    <string name="video_bad_performance_drop_quality">الذاكرة منخفضة، سيتم تغيير الجودة تلقائيًا.</string>
+    <string name="video_camera_label">"كاميرا فيديو"</string>
+    <string name="video_quality_title">"جودة الفيديو"</string>
+    <string name="video_reach_size_limit">"تم بلوغ الحد الأقصى للحجم."</string>
+    <string name="video_recording_error">فشل أثناء التسجيل!</string>
+    <string name="video_recording_not_available">يرجى إيقاف تطبيقات التسجيل الأخرى قبل استخدام كاميرا الفيديو.</string>
+</resources>

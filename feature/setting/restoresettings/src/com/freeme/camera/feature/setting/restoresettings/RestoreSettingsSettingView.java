@@ -1,0 +1,164 @@
+/*
+ * Copyright Statement:
+ *
+ *   This software/firmware and related documentation ("MediaTek Software") are
+ *   protected under relevant copyright laws. The information contained herein is
+ *   confidential and proprietary to MediaTek Inc. and/or its licensors. Without
+ *   the prior written permission of MediaTek inc. and/or its licensors, any
+ *   reproduction, modification, use or disclosure of MediaTek Software, and
+ *   information contained herein, in whole or in part, shall be strictly
+ *   prohibited.
+ *
+ *   MediaTek Inc. (C) 2016. All rights reserved.
+ *
+ *   BY OPENING THIS FILE, RECEIVER HEREBY UNEQUIVOCALLY ACKNOWLEDGES AND AGREES
+ *   THAT THE SOFTWARE/FIRMWARE AND ITS DOCUMENTATIONS ("MEDIATEK SOFTWARE")
+ *   RECEIVED FROM MEDIATEK AND/OR ITS REPRESENTATIVES ARE PROVIDED TO RECEIVER
+ *   ON AN "AS-IS" BASIS ONLY. MEDIATEK EXPRESSLY DISCLAIMS ANY AND ALL
+ *   WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED
+ *   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+ *   NONINFRINGEMENT. NEITHER DOES MEDIATEK PROVIDE ANY WARRANTY WHATSOEVER WITH
+ *   RESPECT TO THE SOFTWARE OF ANY THIRD PARTY WHICH MAY BE USED BY,
+ *   INCORPORATED IN, OR SUPPLIED WITH THE MEDIATEK SOFTWARE, AND RECEIVER AGREES
+ *   TO LOOK ONLY TO SUCH THIRD PARTY FOR ANY WARRANTY CLAIM RELATING THERETO.
+ *   RECEIVER EXPRESSLY ACKNOWLEDGES THAT IT IS RECEIVER'S SOLE RESPONSIBILITY TO
+ *   OBTAIN FROM ANY THIRD PARTY ALL PROPER LICENSES CONTAINED IN MEDIATEK
+ *   SOFTWARE. MEDIATEK SHALL ALSO NOT BE RESPONSIBLE FOR ANY MEDIATEK SOFTWARE
+ *   RELEASES MADE TO RECEIVER'S SPECIFICATION OR TO CONFORM TO A PARTICULAR
+ *   STANDARD OR OPEN FORUM. RECEIVER'S SOLE AND EXCLUSIVE REMEDY AND MEDIATEK'S
+ *   ENTIRE AND CUMULATIVE LIABILITY WITH RESPECT TO THE MEDIATEK SOFTWARE
+ *   RELEASED HEREUNDER WILL BE, AT MEDIATEK'S OPTION, TO REVISE OR REPLACE THE
+ *   MEDIATEK SOFTWARE AT ISSUE, OR REFUND ANY SOFTWARE LICENSE FEES OR SERVICE
+ *   CHARGE PAID BY RECEIVER TO MEDIATEK FOR SUCH MEDIATEK SOFTWARE AT ISSUE.
+ *
+ *   The following software/firmware and/or related documentation ("MediaTek
+ *   Software") have been modified by MediaTek Inc. All revisions are subject to
+ *   any receiver's applicable license agreements with MediaTek Inc.
+ */
+
+package com.freeme.camera.feature.setting.restoresettings;
+
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.preference.Preference;
+import android.preference.PreferenceFragment;
+import android.util.Log;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ListView;
+
+import com.freeme.camera.R;
+import com.freeme.camera.common.app.IApp;
+import com.freeme.camera.common.debug.LogUtil;
+import com.freeme.camera.common.setting.ICameraSettingView;
+
+/**
+ * EIS setting view.
+ */
+
+public class RestoreSettingsSettingView implements ICameraSettingView {
+    private static final LogUtil.Tag TAG = new LogUtil.Tag(RestoreSettingsSettingView.class.getSimpleName());
+
+    private OnRestoreSettingsConfirmListener mListener;
+    private Preference mPref;
+    private String mKey;
+    private IApp mApp;
+
+
+
+    public interface OnRestoreSettingsConfirmListener {
+
+        void onRestoreSettingsConfirmed();
+    }
+    /**
+     * Zsd setting view constructor.
+     *
+     * @param key The key of setting.
+     */
+    public RestoreSettingsSettingView(String key ,IApp app) {
+        mKey = key;
+        mApp = app;
+    }
+
+    @Override
+    public void loadView(PreferenceFragment fragment) {
+//        fragment.addPreferencesFromResource(R.xml.restore_settings_preference);
+//        mPref = (Preference) fragment.findPreference(mKey);
+//
+//        fragment.getView().findViewById(R.id.restore_btn).setOnClickListener((View view)->{
+//            AlertDialog.Builder dlg = new AlertDialog.Builder(mApp.getActivity());
+//            dlg.setTitle(R.string.confirm_restore_message);
+//            dlg.setPositiveButton(android.R.string.ok, mDialogListener);
+//            dlg.setNegativeButton(android.R.string.cancel, null);
+//            dlg.show();
+//        });
+
+        View footerView = fragment.getActivity().getLayoutInflater()
+                .inflate(R.layout.restore_settings_layout, null);
+
+        Button b = footerView.findViewById(R.id.restore_btn);
+        b.setText(R.string.restore_settings_title);
+        b.setOnClickListener((View view) -> {
+            AlertDialog.Builder dlg = new AlertDialog.Builder(mApp.getActivity());
+            dlg.setTitle(R.string.confirm_restore_message);
+            dlg.setPositiveButton(android.R.string.ok, mDialogListener);
+            dlg.setNegativeButton(android.R.string.cancel, null);
+            dlg.show();
+        });
+        fragment.getListView().addFooterView(footerView);
+
+        fragment.getListView().setFooterDividersEnabled(false);
+
+//        mPref.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+//            @Override
+//            public boolean onPreferenceClick(Preference preference) {
+//                AlertDialog.Builder dlg = new AlertDialog.Builder(mApp.getActivity());
+//                dlg.setTitle(R.string.confirm_restore_message);
+//                dlg.setPositiveButton(android.R.string.ok, mDialogListener);
+//                dlg.setNegativeButton(android.R.string.cancel, null);
+//                dlg.show();
+//                return true;
+//            }
+//        });
+
+    }
+
+
+    private DialogInterface.OnClickListener mDialogListener = new DialogInterface.OnClickListener() {
+        @Override
+        public void onClick(DialogInterface dialog, int which) {
+            mListener.onRestoreSettingsConfirmed();
+            //mApp.getActivity().onBackPressed();
+        }
+    };
+
+    @Override
+    public void refreshView() {
+
+    }
+
+    @Override
+    public void unloadView() {
+
+    }
+
+    @Override
+    public void setEnabled(boolean enabled) {
+
+    }
+
+    @Override
+    public boolean isEnabled() {
+      return true;
+    }
+
+
+    @Override
+    public String getKey() {
+        return mKey;
+    }
+
+    public void setRestoreSettingsConfirmedListener(OnRestoreSettingsConfirmListener listener) {
+        mListener = listener;
+    }
+}

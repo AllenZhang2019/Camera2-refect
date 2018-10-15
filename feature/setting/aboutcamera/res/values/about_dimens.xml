@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="freemeabout_icon_margin_top">204px</dimen>
+	<dimen name="freemeabout_icon_margin_bottom">30px</dimen>
+	<dimen name="freemeabout_title_margin_bottom">74px</dimen>
+	<dimen name="freemeabout_title_text_size">15sp</dimen>
+	<dimen name="freemeabout_copyright_text_size">12sp</dimen>
+	<dimen name="freemeabout_detail_height">60dp</dimen>
+	<dimen name="freemeabout_detail_row_margin_left">12dp</dimen>
+	<dimen name="freemeabouit_detail_row_margin_right">12dp</dimen>
+	<dimen name="freemeabout_padding">24dip</dimen>
+	<dimen name="freemeabout_back_top">26dip</dimen>
+	<dimen name="freemeabout_padding_bottom">22dip</dimen>
+	<dimen name="freemeabout_version_margin_top">14px</dimen>
+	<dimen name="freemeabout_copyright_margin_bottom">48px</dimen>
+</resources>

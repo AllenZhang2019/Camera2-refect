@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freeme.camera.common.preference.SwitchPreference
+        android:key="key_touch_capture"
+        android:title="@string/touch_capture_title"
+        android:persistent="false"
+        android:order="30"/>
+</PreferenceScreen>

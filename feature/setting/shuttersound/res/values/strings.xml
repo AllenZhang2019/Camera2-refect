@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="shutter_sound_title" translatable="false">Shutter Sound</string>
+    <string name="shutter_sound_content_description" translatable="false">Shutter Sound</string>
+</resources>

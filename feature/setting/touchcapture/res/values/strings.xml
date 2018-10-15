@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="touch_capture_title" translatable="false">Touch Capture</string>
+    <string name="touch_capture_content_description" translatable="false">Touch Capture</string>
+</resources>

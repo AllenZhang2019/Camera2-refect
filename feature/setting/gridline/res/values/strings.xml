@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="grid_line_title" translatable="false">Grid Line</string>
+    <string name="grid_line_content_description" translatable="false">Grid Line</string>
+</resources>

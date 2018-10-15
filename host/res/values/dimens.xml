@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mode_transition_view_icon_size">64dp</dimen>
+    <dimen name="quick_switcher_margin_right_dp">11dp</dimen>
+    <dimen name="grid_line_width">1dp</dimen>
+    <dimen name="hct_shutter_title_size">14dp</dimen>
+    <dimen name="camera_shutter_bar_title_gap">27dp</dimen>
+    <dimen name="camera_shutter_margin_Bottom">8.5dp</dimen>
+    <dimen name="shutter_item_title_margin_Bottom">78dp</dimen>
+</resources>

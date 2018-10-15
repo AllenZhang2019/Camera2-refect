@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ուղղվել տուն"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Ուղղվել վերև"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Այլ ընտրանքներ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Կատարված է"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Տեսնել բոլորը"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Ընտրել ծրագիր"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ԱՆՋԱՏՎԱԾ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ՄԻԱՑՎԱԾ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Որոնում..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Մաքրել հարցումը"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Որոնման հարցում"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Որոնել"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Ուղարկել հարցումը"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ձայնային որոնում"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Կիսվել"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Կիսվել %s-ի միջոցով"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Թաքցնել"</string>
+    <string name="accessibility_mode">Տեսախցիկի ռեժիմ</string>
+    <string name="accessibility_setting">Կարգավորումներ</string>
+    <string name="accessibility_shutter">"Փականի կոճակ"</string>
+    <string name="accessibility_switch_to_panorama">Համայնապատկերի ռեժիմ</string>
+    <string name="accessibility_thumbnail">"Ամենավերջին լուսանկարը"</string>
+    <string name="aeaf_lock_indicator">AE/AF կողպում</string>
+    <string name="ais_title">Ստաբիլիզացիա</string>
+    <string name="asd_hdr_guide">HDR-ը միացնելը կարող է ապահովել լուսանկարի ավելի լավ էֆեկտներ</string>
+    <string name="camera_label">"Ֆոտոխցիկ"</string>
+    <string name="can_not_use_storage">SD քարտը մատչելի չէ</string>
+    <string name="continuous_saving_pictures">Պահվում են <ns1:g example="10" id="numbers">%1$d</ns1:g> լուսանկարները</string>
+    <string name="microphone_title">"Բարձրախոս"</string>
+    <string name="mode_fragment_title">Ռեժիմներ</string>
+    <string name="noise_reduction_title">Աղմուկի նվազեցում</string>
+    <string name="normal_mode_title">"Սովորական"</string>
+    <string name="pano_dialog_title">"Համայնապատկեր"</string>
+    <string name="panorama_guide_capture">Շարժեքսարքը՝երկուգծերըվերադրելուհամար</string>
+    <string name="panorama_guide_choose_direction">Սարքըշարժեքսևեռմանուղղությամբ</string>
+    <string name="panorama_guide_shutter">Սեղմեք մեկնարկի ստեղնին` համայնապատկեր լուսանկարելու համար</string>
+    <string name="pref_af_mode_multi">Բազմագոտի AF</string>
+    <string name="pref_af_mode_single">Մեկ կետով AF</string>
+    <string name="pref_af_mode_title">AF ռեժիմ</string>
+    <string name="pref_camera_antibanding_entry_50hz">50հերց</string>
+    <string name="pref_camera_antibanding_entry_60hz">60հերց</string>
+    <string name="pref_camera_antibanding_entry_auto">"ինքնաշխատ"</string>
+    <string name="pref_camera_antibanding_entry_off">"Անջատված է"</string>
+    <string name="pref_camera_antibanding_title">Հակա-առկայծումային</string>
+    <string name="pref_camera_brightness_title">"Պայծառություն"</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Ծովագույն</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Սև տախտակ</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Կապույտ երանգ</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Կանաչ երանգ</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Կինոնկար</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Ճոխ</string>
+    <string name="pref_camera_coloreffect_entry_mono">Մոնո</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Խճանկարային</string>
+    <string name="pref_camera_coloreffect_entry_nashville">"Նեշվիլ"</string>
+    <string name="pref_camera_coloreffect_entry_negative">Նեգատիվ</string>
+    <string name="pref_camera_coloreffect_entry_none">"Ոչ մեկը"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Գունատ</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Պաստառացում"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Կարմիր երանգ</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Դարչնագույն"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Դարչնագույն երանգ</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Դարչնագույն կանաչ</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Նրբագեղ</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Արևակայել</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Հանգիստ</string>
+    <string name="pref_camera_coloreffect_entry_walden">Հրաշալի</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Սպիտակ տախտակ</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Հիշողություն</string>
+    <string name="pref_camera_coloreffect_title">Գույնի էֆեկտ</string>
+    <string name="pref_camera_contrast_title">"Ցայտունություն"</string>
+    <string name="pref_camera_dip_entry_high">"Բարձր"</string>
+    <string name="pref_camera_dip_entry_low">"Ցածր"</string>
+    <string name="pref_camera_dip_entry_middle">"Միջին"</string>
+    <string name="pref_camera_edge_title">"Հստակություն"</string>
+    <string name="pref_camera_hue_title">"Գուներանգ"</string>
+    <string name="pref_camera_image_properties_default">"Լռելյայն"</string>
+    <string name="pref_camera_image_properties_title">Պատկերի հատկություններ</string>
+    <string name="pref_camera_iso_entry_auto">"ինքնաշխատ"</string>
+    <string name="pref_camera_picturesize_title">"Նկարի չափը"</string>
+    <string name="pref_camera_saturation_title">"Հագեցում"</string>
+    <string name="pref_camera_scenemode_entry_action">"Գործողություն"</string>
+    <string name="pref_camera_scenemode_entry_auto">"ինքնաշխատ"</string>
+    <string name="pref_camera_scenemode_entry_beach">Ծովափ</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Մոմի լույս</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Հրավառություն</string>
+    <string name="pref_camera_scenemode_entry_landscape">"Լանդշաֆտ"</string>
+    <string name="pref_camera_scenemode_entry_night">"Գիշեր"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Գիշերային դիմանկար</string>
+    <string name="pref_camera_scenemode_entry_off">"Անջատված է"</string>
+    <string name="pref_camera_scenemode_entry_party">"Երեկույթ"</string>
+    <string name="pref_camera_scenemode_entry_portrait">"Դիմանկար"</string>
+    <string name="pref_camera_scenemode_entry_snow">Ձյուն</string>
+    <string name="pref_camera_scenemode_entry_sports">Սպորտ</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Հստակ լուսանկար</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Մայրամուտ"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Թատրոն</string>
+    <string name="pref_camera_scenemode_title">"Տեսարանային ռեժիմ"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"ինքնաշխատ"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Ամպամած"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Ցերեկային լույս"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Ցերեկային լուսավորություն"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Շիկացած"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Ստվեր</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Վոլֆրամ</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Մթնշաղ</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Ջերմ ֆլուորեսցենտային</string>
+    <string name="pref_camera_whitebalance_title">"Սպիտակի կշիռ"</string>
+    <string name="pref_thermal_dialog_content">Սարքիջերմաստիճանըչափազանցբարձրէ,ևխցիկը30վայրկյանհետոինքնաբերաբարկփակվի:Փորձեքայնօգտագործելավելիուշ:</string>
+    <string name="pref_thermal_dialog_content_launch">Սարքիջերմաստիճանըչափազանցբարձրէ.խցիկնօգտագործեքավելիուշ:</string>
+    <string name="pref_thermal_dialog_title">Զգուշացում</string>
+    <string name="pref_thermal_preview_toast">Շարունակելու համար հպեք էկրանին:</string>
+    <string name="saving_dialog_default_string">պահում է...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Որոնել"</string>
+    <string name="self_timer_entry_10">"10 վայրկյան"</string>
+    <string name="self_timer_entry_2">"2 այլ"</string>
+    <string name="self_timer_entry_off">"անջատված է"</string>
+    <string name="self_timer_title">Ժամաչափ</string>
+    <string name="setting_title">"Կարգավորումներ"</string>
+    <string name="shutter_speed_entry_1">1 վայրկյան</string>
+    <string name="shutter_speed_entry_16">16 վայրկյան</string>
+    <string name="shutter_speed_entry_2">"2 վայրկյան"</string>
+    <string name="shutter_speed_entry_4">"4 վայրկյան"</string>
+    <string name="shutter_speed_entry_8">"8 վայրկյան"</string>
+    <string name="shutter_speed_entry_auto">"Ինքնուրույն"</string>
+    <string name="shutter_speed_title">Փականի արագություն</string>
+    <string name="shutter_type_photo">Նկար</string>
+    <string name="shutter_type_video">"Տեսանյութեր"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Սկզբնադիր պահոցը լիքն է, ազատեք որոշ տարածք կամ կառավարեք պահոցի ընտրանքները կարգավորումներում </string>
+    <string name="video_bad_performance_auto_stop">Հիշողության սպառում, տեսագրման ավտոմատ անջատում:</string>
+    <string name="video_bad_performance_drop_quality">Հիշողության սպառում, որակի ավտոմատ փոփոխում:</string>
+    <string name="video_camera_label">"Տեսախցիկ"</string>
+    <string name="video_quality_title">"Տեսանյութի որակը"</string>
+    <string name="video_reach_size_limit">"Սահմանափակման չափը սպառված է:"</string>
+    <string name="video_recording_error">Սխալ տեսագրման ժամանակ</string>
+    <string name="video_recording_not_available">Խնդրում ենք անջատել տեսագրման այլ աշխատածրագրերը` նախքան տեսախցիկի օգտագործումը:</string>
+</resources>

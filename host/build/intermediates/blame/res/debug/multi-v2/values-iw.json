@@ -1,0 +1,332 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/luoran/code/1012/Camera2/host/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/focus/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "59",
+                        "endOffsets": "112"
+                    },
+                    "to": {
+                        "startLines": "26",
+                        "startColumns": "4",
+                        "startOffsets": "2321",
+                        "endColumns": "59",
+                        "endOffsets": "2376"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/ais/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "48",
+                        "endOffsets": "778"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2381",
+                        "endColumns": "48",
+                        "endOffsets": "2425"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/microphone/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "55",
+                        "endOffsets": "785"
+                    },
+                    "to": {
+                        "startLines": "32",
+                        "startColumns": "4",
+                        "startOffsets": "2745",
+                        "endColumns": "55",
+                        "endOffsets": "2796"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/continuousshot/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "107",
+                        "endColumns": "118",
+                        "endOffsets": "221"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2630",
+                        "endColumns": "114",
+                        "endOffsets": "2740"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/host/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "6,7,4,5,2,19,9,10,23,22,21,24,11,8,12,13,20,15,16,3,18,17,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "350,407,217,281,107,1265,514,568,1610,1502,1442,1741,621,463,686,741,1330,912,1013,156,1193,1123,796",
+                        "endColumns": "56,55,63,68,48,64,53,52,130,107,59,74,64,50,54,54,111,100,109,60,71,69,115",
+                        "endOffsets": "402,458,276,345,151,1325,563,616,1736,1605,1497,1811,681,509,736,791,1437,1008,1118,212,1260,1188,907"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,25,29,30,33,35,111,112,113,114,115,121,129,130,132,133,134,135,137,138,139",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2003,2060,2116,2252,2516,2565,2801,2917,8312,8443,8551,8611,8686,9054,9528,9583,9741,9853,9954,10064,10187,10259,10329",
+                        "endColumns": "56,55,63,68,48,64,53,52,130,107,59,74,64,50,54,54,111,100,109,60,71,69,115",
+                        "endOffsets": "2055,2111,2175,2316,2560,2625,2850,2965,8438,8546,8606,8681,8746,9100,9578,9633,9848,9949,10059,10120,10254,10324,10440"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/antiflicker/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "20,21,18,19,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1015,1085,873,946,802",
+                        "endColumns": "67,67,70,68,68",
+                        "endOffsets": "1078,1148,939,1010,866"
+                    },
+                    "to": {
+                        "startLines": "43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "3466,3534,3602,3673,3742",
+                        "endColumns": "67,67,70,68,68",
+                        "endOffsets": "3529,3597,3668,3737,3806"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/matrixdisplay/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "26,25,30,31,35,38,19,28,34,21,18,27,23,29,20,32,33,39,22,36,40,24,37,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1478,1398,1772,1851,2164,2375,944,1621,2092,1091,873,1549,1242,1694,1014,1931,2011,2443,1166,2231,2515,1323,2303,802",
+                        "endColumns": "68,77,76,77,66,67,67,70,71,72,68,69,78,75,74,77,78,71,73,71,72,72,71,68",
+                        "endOffsets": "1542,1471,1844,1924,2226,2438,1007,1687,2159,1159,937,1614,1316,1765,1084,2004,2085,2510,1235,2298,2583,1391,2370,866"
+                    },
+                    "to": {
+                        "startLines": "49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3875,3944,4022,4099,4177,4244,4312,4380,4451,4523,4596,4665,4735,4814,4890,4965,5043,5122,5194,5268,5340,5413,5486,5558",
+                        "endColumns": "68,77,76,77,66,67,67,70,71,72,68,69,78,75,74,77,78,71,73,71,72,72,71,68",
+                        "endOffsets": "3939,4017,4094,4172,4239,4307,4375,4446,4518,4591,4660,4730,4809,4885,4960,5038,5117,5189,5263,5335,5408,5481,5553,5622"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/whitebalance/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "18,22,21,20,19,24,26,23,25,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "873,1187,1109,1026,947,1339,1499,1261,1409,802",
+                        "endColumns": "73,73,77,82,78,67,75,75,87,70",
+                        "endOffsets": "942,1256,1182,1104,1021,1402,1570,1332,1492,868"
+                    },
+                    "to": {
+                        "startLines": "101,102,103,104,105,106,107,108,109,110",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7545,7619,7693,7771,7854,7933,8001,8077,8153,8241",
+                        "endColumns": "73,73,77,82,78,67,75,75,87,70",
+                        "endOffsets": "7614,7688,7766,7849,7928,7996,8072,8148,8236,8307"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/videoquality/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "61",
+                        "endOffsets": "791"
+                    },
+                    "to": {
+                        "startLines": "136",
+                        "startColumns": "4",
+                        "startOffsets": "10125",
+                        "endColumns": "61",
+                        "endOffsets": "10182"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/scenemode/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "34,20,18,28,33,31,25,21,26,19,23,24,29,32,30,22,27,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2027,1006,868,1592,1956,1809,1360,1077,1434,939,1217,1287,1660,1885,1727,1146,1518,802",
+                        "endColumns": "85,70,70,65,70,73,71,68,81,66,69,70,64,68,79,70,71,65",
+                        "endOffsets": "2108,1072,934,1653,2022,1878,1427,1141,1511,1001,1282,1353,1720,1949,1802,1212,1585,863"
+                    },
+                    "to": {
+                        "startLines": "28,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2430,6338,6409,6480,6546,6617,6691,6763,6832,6914,6981,7051,7122,7187,7256,7336,7407,7479",
+                        "endColumns": "85,70,70,65,70,73,71,68,81,66,69,70,64,68,79,70,71,65",
+                        "endOffsets": "2511,6404,6475,6541,6612,6686,6758,6827,6909,6976,7046,7117,7182,7251,7331,7402,7474,7540"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/shutterspeed/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "4,8,5,6,7,3,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "182,425,242,303,364,118,57",
+                        "endColumns": "58,60,59,59,59,62,59",
+                        "endOffsets": "236,481,297,358,419,176,112"
+                    },
+                    "to": {
+                        "startLines": "122,123,124,125,126,127,128",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "9105,9164,9225,9285,9345,9405,9468",
+                        "endColumns": "58,60,59,59,59,62,59",
+                        "endOffsets": "9159,9220,9280,9340,9400,9463,9523"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/picturesize/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "70",
+                        "endOffsets": "868"
+                    },
+                    "to": {
+                        "startLines": "82",
+                        "startColumns": "4",
+                        "startOffsets": "6204",
+                        "endColumns": "70",
+                        "endOffsets": "6270"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/imageproperties/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "22,23,26,24,25,19,20,17,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1137,1203,1397,1269,1330,957,1015,802,880,1072",
+                        "endColumns": "63,63,59,58,64,55,54,77,76,62",
+                        "endOffsets": "1196,1262,1452,1323,1390,1008,1065,875,952,1130"
+                    },
+                    "to": {
+                        "startLines": "48,73,74,75,76,77,78,79,80,83",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3811,5627,5691,5751,5810,5875,5931,5986,6064,6275",
+                        "endColumns": "63,63,59,58,64,55,54,77,76,62",
+                        "endOffsets": "3870,5686,5746,5805,5870,5926,5981,6059,6136,6333"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/mode/panorama/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "13,16,15,17,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "747,1004,920,1060,820",
+                        "endColumns": "71,54,82,83,98",
+                        "endOffsets": "814,1054,998,1139,914"
+                    },
+                    "to": {
+                        "startLines": "24,36,37,38,39",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2180,2970,3025,3108,3192",
+                        "endColumns": "71,54,82,83,98",
+                        "endOffsets": "2247,3020,3103,3187,3286"
+                    }
+                },
+                {
+                    "source": "/home/luoran/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/da89855f76fa9809bd6efcf8c0b1768e/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,269,395,494,602,686,786,900,978,1056,1135,1237,1341,1437,1540,1641,1741,1857,1953,2032",
+                        "endColumns": "103,109,125,98,107,83,99,113,77,77,78,101,103,95,102,100,99,115,95,78,102",
+                        "endOffsets": "154,264,390,489,597,681,781,895,973,1051,1130,1232,1336,1432,1535,1636,1736,1852,1948,2027,2130"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,116,131",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,319,445,544,652,736,836,950,1028,1106,1185,1287,1391,1487,1590,1691,1791,1907,8751,9638",
+                        "endColumns": "103,109,125,98,107,83,99,113,77,77,78,101,103,95,102,100,99,115,95,78,102",
+                        "endOffsets": "204,314,440,539,647,731,831,945,1023,1101,1180,1282,1386,1482,1585,1686,1786,1902,1998,8825,9736"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/focusmode/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "19,18,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "918,856,802",
+                        "endColumns": "58,61,53",
+                        "endOffsets": "972,913,851"
+                    },
+                    "to": {
+                        "startLines": "40,41,42",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "3291,3350,3412",
+                        "endColumns": "58,61,53",
+                        "endOffsets": "3345,3407,3461"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/iso/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "802",
+                        "endColumns": "62",
+                        "endOffsets": "860"
+                    },
+                    "to": {
+                        "startLines": "81",
+                        "startColumns": "4",
+                        "startOffsets": "6141",
+                        "endColumns": "62",
+                        "endOffsets": "6199"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/selftimer/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "20,19,18,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "969,914,858,802",
+                        "endColumns": "56,54,55,55",
+                        "endOffsets": "1021,964,909,853"
+                    },
+                    "to": {
+                        "startLines": "117,118,119,120",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8830,8887,8942,8998",
+                        "endColumns": "56,54,55,55",
+                        "endOffsets": "8882,8937,8993,9049"
+                    }
+                },
+                {
+                    "source": "/home/luoran/code/1012/Camera2/feature/setting/noisereduction/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "734",
+                        "endColumns": "61",
+                        "endOffsets": "791"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "2855",
+                        "endColumns": "61",
+                        "endOffsets": "2912"
+                    }
+                }
+            ]
+        }
+    ]
+}

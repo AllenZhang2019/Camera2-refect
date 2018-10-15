@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin
+    id="slrplugin"
+    name="slr"
+    version="1">
+
+    <extension
+        id="slr"
+        name="slr extension"
+        class="com.freeme.camera.feature.mode.slr.SlrEntry"
+        plugin-id="cameraplugin"
+        point-id="FeatureEntryBase">
+    </extension>
+</plugin>

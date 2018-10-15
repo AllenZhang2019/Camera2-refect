@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about_camera_content_description" translatable="false">"关于相机"</string>
+    <string name="about_camera_title" translatable="false">"关于相机"</string>
+    <string name="accessibility_mode">相机模式</string>
+    <string name="accessibility_setting">"设置"</string>
+    <string name="accessibility_shutter">"“快门”按钮"</string>
+    <string name="accessibility_switch_to_panorama">"全景模式"</string>
+    <string name="accessibility_thumbnail">"最新照片"</string>
+    <string name="aeaf_lock_indicator">AE/AF 锁定</string>
+    <string name="ais_title">防抖</string>
+    <string name="asd_hdr_guide">打开HDR可能使拍照效果更好</string>
+    <string name="auto_exit_content_description" translatable="false">"两分钟无操作后自动退出相机"</string>
+    <string name="auto_exit_title" translatable="false">"两分钟无操作后自动退出相机"</string>
+    <string name="camera_disabled">由于安全政策的限制，相机已被停用。"</string>
+    <string name="camera_label">"相机"</string>
+    <string name="can_not_use_storage">"SD Card 现在无法使用"</string>
+    <string name="cannot_connect_camera_new">无法连接到相机。请确保已关闭会使用相机或闪光灯的应用程序。</string>
+    <string name="children_dialog_title">儿童</string>
+    <string name="confirm_restore_message">"要恢复相机默认设置吗？"</string>
+    <string name="continuous_saving_pictures">正在保存 <ns1:g id="numbers">%1$d</ns1:g> 张图片</string>
+    <string name="dialog_ok">"确定"</string>
+    <string name="face_detection_content_description" translatable="false">"人脸识别"</string>
+    <string name="face_detection_title" translatable="false">"人脸识别"</string>
+    <string name="focus_sound_content_description" translatable="false">"对焦声音"</string>
+    <string name="focus_sound_title" translatable="false">"对焦声音"</string>
+    <string name="freeme_settings_capture_category">拍照</string>
+    <string name="freeme_settings_general_category">通用</string>
+    <string name="grid_line_content_description" translatable="false">"网格线"</string>
+    <string name="grid_line_title" translatable="false">"网格线"</string>
+    <string name="iko_dialog_title">识物</string>
+    <string name="large_dialog_title">大片</string>
+    <string name="microphone_title">"声音录制"</string>
+    <string name="mirror_capture_content_description" translatable="false">"自拍镜像"</string>
+    <string name="mirror_capture_title" translatable="false">"自拍镜像"</string>
+    <string name="mode_fragment_title">"模式"</string>
+    <string name="noise_reduction_title">"降噪"</string>
+    <string name="normal_mode_title">"标准"</string>
+    <string name="pano_dialog_title">"全景"</string>
+    <string name="panorama_guide_capture">移动相机使两条线重叠</string>
+    <string name="panorama_guide_choose_direction">沿着要拍摄的方向移动相机</string>
+    <string name="panorama_guide_shutter">按下快门按钮开始拍摄全景照片</string>
+    <string name="pose_dialog_title">模特</string>
+    <string name="pref_af_mode_multi">多点对焦</string>
+    <string name="pref_af_mode_single">单点对焦</string>
+    <string name="pref_af_mode_title">对焦模式</string>
+    <string name="pref_camera_antibanding_entry_50hz">"50 赫兹"</string>
+    <string name="pref_camera_antibanding_entry_60hz">"60 赫兹"</string>
+    <string name="pref_camera_antibanding_entry_auto">"自动"</string>
+    <string name="pref_camera_antibanding_entry_off">"关闭"</string>
+    <string name="pref_camera_antibanding_title">"避免闪烁"</string>
+    <string name="pref_camera_brightness_title">"亮度"</string>
+    <string msgid="224075791902166343" name="pref_camera_coloreffect_entry_aqua">"水蓝色"</string>
+    <string msgid="4149918495221278960" name="pref_camera_coloreffect_entry_blackboard">"黑板"</string>
+    <string msgid="918696074928692967" name="pref_camera_coloreffect_entry_bluetint">"偏蓝"</string>
+    <string msgid="9080254097150221320" name="pref_camera_coloreffect_entry_greentint">"偏绿"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">"电影"</string>
+    <string name="pref_camera_coloreffect_entry_lofi">"艳丽"</string>
+    <string msgid="9068472385922288418" name="pref_camera_coloreffect_entry_mono">"单色"</string>
+    <string msgid="1756287704236443515" name="pref_camera_coloreffect_entry_mosaic">"马赛克"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">"清新"</string>
+    <string msgid="1635477825533469324" name="pref_camera_coloreffect_entry_negative">"负片"</string>
+    <string msgid="4759462740660236565" name="pref_camera_coloreffect_entry_none">"无"</string>
+    <string msgid="1263931790863509482" name="pref_camera_coloreffect_entry_pastel">"柔和"</string>
+    <string msgid="8596847197608350695" name="pref_camera_coloreffect_entry_posterize">"色调分离"</string>
+    <string msgid="6646299498728138294" name="pref_camera_coloreffect_entry_redtint">"偏红"</string>
+    <string msgid="7558624061140022613" name="pref_camera_coloreffect_entry_sepia">"棕褐色"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">"复古蓝"</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">"复古绿"</string>
+    <string name="pref_camera_coloreffect_entry_sierra">"淡雅"</string>
+    <string msgid="7399297076108412329" name="pref_camera_coloreffect_entry_solarize">"曝光"</string>
+    <string name="pref_camera_coloreffect_entry_valencia">"沉静"</string>
+    <string name="pref_camera_coloreffect_entry_walden">"冷酷"</string>
+    <string msgid="8161550096887765100" name="pref_camera_coloreffect_entry_whiteboard">"白板"</string>
+    <string name="pref_camera_coloreffect_entry_xproll">"怀旧"</string>
+    <string msgid="4152827686267109207" name="pref_camera_coloreffect_title">"色彩效果"</string>
+    <string name="pref_camera_contrast_title">"对比度"</string>
+    <string name="pref_camera_dip_entry_high">"高"</string>
+    <string name="pref_camera_dip_entry_low">"低"</string>
+    <string name="pref_camera_dip_entry_middle">"中"</string>
+    <string name="pref_camera_edge_title">"锐度"</string>
+    <string name="pref_camera_hue_title">"色度"</string>
+    <string name="pref_camera_image_properties_default">默认</string>
+    <string name="pref_camera_image_properties_title">图片属性</string>
+    <string name="pref_camera_iso_entry_auto">"自动"</string>
+    <string name="pref_camera_picturesize_title">"照片大小"</string>
+    <string name="pref_camera_saturation_title">"饱和度"</string>
+    <string name="pref_camera_scenemode_entry_action">"运动"</string>
+    <string name="pref_camera_scenemode_entry_auto">"自动"</string>
+    <string name="pref_camera_scenemode_entry_beach">"海滩"</string>
+    <string name="pref_camera_scenemode_entry_candlelight">"烛光"</string>
+    <string name="pref_camera_scenemode_entry_fireworks">"烟火"</string>
+    <string name="pref_camera_scenemode_entry_landscape">"风景"</string>
+    <string name="pref_camera_scenemode_entry_night">"夜景"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">"夜景肖像"</string>
+    <string name="pref_camera_scenemode_entry_off">"关闭"</string>
+    <string name="pref_camera_scenemode_entry_party">"派对"</string>
+    <string name="pref_camera_scenemode_entry_portrait">"肖像"</string>
+    <string name="pref_camera_scenemode_entry_snow">"雪景"</string>
+    <string name="pref_camera_scenemode_entry_sports">"运动"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">"防抖"</string>
+    <string name="pref_camera_scenemode_entry_sunset">"日落"</string>
+    <string name="pref_camera_scenemode_entry_theatre">"影院"</string>
+    <string name="pref_camera_scenemode_title">"取景模式"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"自动"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"阴天"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"日光"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"荧光"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"白炽光"</string>
+    <string name="pref_camera_whitebalance_entry_shade">"阴影"</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">"钨丝灯"</string>
+    <string name="pref_camera_whitebalance_entry_twilight">"微光"</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">"暖荧光"</string>
+    <string name="pref_camera_whitebalance_title">"白平衡"</string>
+    <string name="pref_thermal_dialog_content">手机温度过高，相机将在30秒后自动退出。请稍候再使用相机。</string>
+    <string name="pref_thermal_dialog_content_launch">手机温度过高，请稍候再使用相机。</string>
+    <string name="pref_thermal_dialog_title">警告</string>
+    <string name="pref_thermal_preview_toast">輕觸螢幕後繼續。</string>
+    <string name="qrcodescan_dialog_title">二维码</string>
+    <string name="restore_settings_content_description" translatable="false">"恢复默认值"</string>
+    <string name="restore_settings_title" translatable="false">"恢复默认值"</string>
+    <string name="saving_dialog_default_string">正在保存...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="self_timer_entry_10">"10 秒"</string>
+    <string name="self_timer_entry_2">"2 秒"</string>
+    <string name="self_timer_entry_off">"关"</string>
+    <string name="self_timer_title">"自拍计时"</string>
+    <string name="setting_title">"设置"</string>
+    <string name="shutter_sound_content_description" translatable="false">"快门声音"</string>
+    <string name="shutter_sound_title" translatable="false">"快门声音"</string>
+    <string name="shutter_speed_entry_1">1 秒</string>
+    <string name="shutter_speed_entry_16">16 秒</string>
+    <string name="shutter_speed_entry_2">2 秒</string>
+    <string name="shutter_speed_entry_4">4 秒</string>
+    <string name="shutter_speed_entry_8">8 秒</string>
+    <string name="shutter_speed_entry_auto">自动</string>
+    <string name="shutter_speed_title">快门时间</string>
+    <string name="shutter_type_photo">"照片"</string>
+    <string name="shutter_type_video">"视频"</string>
+    <string name="slr_dialog_title">单反</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">"默认存储空间不足，请释放部分空间或更改默认存储位置"</string>
+    <string name="touch_capture_content_description" translatable="false">"触屏拍照"</string>
+    <string name="touch_capture_title" translatable="false">"触屏拍照"</string>
+    <string name="video_bad_performance_auto_stop">系统内存不足，自动停止录像。</string>
+    <string name="video_bad_performance_drop_quality">系统内存不足，自动调整录像质量。</string>
+    <string name="video_camera_label">"摄像机"</string>
+    <string name="video_quality_title">"视频画质"</string>
+    <string name="video_reach_size_limit">"已达到大小上限。"</string>
+    <string name="video_recording_error">录制时发生错误！</string>
+    <string name="video_recording_not_available">"无法录影，请检查是否有其他应用程序正在录影。"</string>
+    <string name="volume_capture_content_description" translatable="false">"音量鍵拍照"</string>
+    <string name="volume_capture_title" translatable="false">"音量鍵拍照"</string>
+    <string name="water_dialog_title">水印</string>
+    <string name="zsd_content_description" translatable="false">"零延时"</string>
+    <string name="zsd_title" translatable="false">"零延时"</string>
+</resources>

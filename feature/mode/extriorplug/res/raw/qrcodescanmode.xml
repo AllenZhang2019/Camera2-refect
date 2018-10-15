@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin
+    id="qrcodescanplugin"
+    name="qrcodescan"
+    version="1">
+
+    <extension
+        id="qrcodescan"
+        name="qrcodescan extension"
+        class="com.freeme.camera.feature.mode.qrcodescan.QrCodeScanEntry"
+        plugin-id="cameraplugin"
+        point-id="FeatureEntryBase">
+    </extension>
+</plugin>

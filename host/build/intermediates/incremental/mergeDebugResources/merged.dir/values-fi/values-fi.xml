@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="accessibility_mode">Kameratila</string>
+    <string name="accessibility_setting">Asetus</string>
+    <string name="accessibility_shutter">"Laukaisupainike"</string>
+    <string name="accessibility_switch_to_panorama">Panoraamatila</string>
+    <string name="accessibility_thumbnail">"Viimeisin valokuva"</string>
+    <string name="aeaf_lock_indicator">AE/AF-lukitus</string>
+    <string name="ais_title">Tärinänesto</string>
+    <string name="asd_hdr_guide">HDR:n kytkeminen päälle voi tuottaa paremman valokuvatehosteen</string>
+    <string name="camera_label">"Kamera"</string>
+    <string name="can_not_use_storage">SD-kortti ei käytettävissä</string>
+    <string name="continuous_saving_pictures">Tallennetaan <ns1:g example="10" id="numbers">%1$d</ns1:g> kuvaa</string>
+    <string name="microphone_title">"Mikrofoni"</string>
+    <string name="mode_fragment_title">Tilat</string>
+    <string name="noise_reduction_title">Kohinanvaimennus</string>
+    <string name="normal_mode_title">"Normaali"</string>
+    <string name="pano_dialog_title">"Panoraama"</string>
+    <string name="panorama_guide_capture">Siirrälaitettaasettaaksesikaksiviivaalomittain</string>
+    <string name="panorama_guide_choose_direction">Siirrälaitettakohtikuvaussuuntaa</string>
+    <string name="panorama_guide_shutter">Paina suljinta käynnistääksesi panoraaman kuvauksen</string>
+    <string name="pref_af_mode_multi">Monialueinen automaattitarkennus</string>
+    <string name="pref_af_mode_single">Yhden pisteen automaattitarkennus</string>
+    <string name="pref_af_mode_title">Automaattitarkennustila</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automaattinen"</string>
+    <string name="pref_camera_antibanding_entry_off">"Pois käytöstä"</string>
+    <string name="pref_camera_antibanding_title">Välkynnän esto</string>
+    <string name="pref_camera_brightness_title">"Kirkkaus"</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Sinivihreä</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Liitutaulu</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Sininen sävy</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Vihreä sävy</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Elokuva</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Loistava</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mosaiikki</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Tuore</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negatiivi</string>
+    <string name="pref_camera_coloreffect_entry_none">Ei mitään</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastelli</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Posteroi</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Punainen sävy</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Seepia"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Seepia-sininen</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Seepia-vihreä</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegantti</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Ylivalota</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Tyyni</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Siisti"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Esitystaulu</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Muisto</string>
+    <string name="pref_camera_coloreffect_title">Väritehoste</string>
+    <string name="pref_camera_contrast_title">"Kontrasti"</string>
+    <string name="pref_camera_dip_entry_high">"Tärkeä"</string>
+    <string name="pref_camera_dip_entry_low">"Alhainen"</string>
+    <string name="pref_camera_dip_entry_middle">"Keskikokoinen"</string>
+    <string name="pref_camera_edge_title">"Terävyys"</string>
+    <string name="pref_camera_hue_title">"Sävy"</string>
+    <string name="pref_camera_image_properties_default">"Oletus"</string>
+    <string name="pref_camera_image_properties_title">Kuvan ominaisuudet</string>
+    <string name="pref_camera_iso_entry_auto">"Automaattinen"</string>
+    <string name="pref_camera_picturesize_title">"Kuvan koko"</string>
+    <string name="pref_camera_saturation_title">"Värikylläisyys"</string>
+    <string name="pref_camera_scenemode_entry_action">"Toiminta"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automaattinen"</string>
+    <string name="pref_camera_scenemode_entry_beach">Ranta</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Kynttilänvalo</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Ilotulitus</string>
+    <string name="pref_camera_scenemode_entry_landscape">Vaaka</string>
+    <string name="pref_camera_scenemode_entry_night">"Yö"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Yömuotokuva</string>
+    <string name="pref_camera_scenemode_entry_off">"Pois käytöstä"</string>
+    <string name="pref_camera_scenemode_entry_party">"Juhlat"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Pysty</string>
+    <string name="pref_camera_scenemode_entry_snow">Lumi</string>
+    <string name="pref_camera_scenemode_entry_sports">Urheilu</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Tasainen valokuva</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Auringonlasku"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Teatteri</string>
+    <string name="pref_camera_scenemode_title">"Kuvaustila"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automaattinen"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Pilvinen"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Päivänvalo"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Loisteputkivalo"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Hehkulamppuvalo"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Varjo</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Keinovalo</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Iltahämärä</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Lämmin loistevalo</string>
+    <string name="pref_camera_whitebalance_title">"Valkotasapaino"</string>
+    <string name="pref_thermal_dialog_content">Laitteenlämpötilaonliiankorkea,kamerasulkeutuuautomaattisesti30sekunninkuluttua.Yritäkäyttääsitämyöhemmin.</string>
+    <string name="pref_thermal_dialog_content_launch">Laitteenlämpötilaonliiankorkea,käytäkameraamyöhemmin.</string>
+    <string name="pref_thermal_dialog_title">Varoitus</string>
+    <string name="pref_thermal_preview_toast">Kosketa näyttöä jatkaaksesi.</string>
+    <string name="saving_dialog_default_string">tallennetaan...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <string name="self_timer_entry_10">"10 sekuntia"</string>
+    <string name="self_timer_entry_2">"2 sekuntia"</string>
+    <string name="self_timer_entry_off">"Pois käytöstä"</string>
+    <string name="self_timer_title">Itselaukaisin</string>
+    <string name="setting_title">"Asetukset"</string>
+    <string name="shutter_speed_entry_1">1 sekunti</string>
+    <string name="shutter_speed_entry_16">16 sekuntia</string>
+    <string name="shutter_speed_entry_2">"2 sekuntia"</string>
+    <string name="shutter_speed_entry_4">"4 sekuntia"</string>
+    <string name="shutter_speed_entry_8">"8 sekuntia"</string>
+    <string name="shutter_speed_entry_auto">"Automaattinen"</string>
+    <string name="shutter_speed_title">Suljinnopeus</string>
+    <string name="shutter_type_photo">"Kuva"</string>
+    <string name="shutter_type_video">"Video"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Oletustallennustila on täynnä. Vapauta tilaa tai hallitse tallennustilavalintoja asetuksissa.</string>
+    <string name="video_bad_performance_auto_stop">Muisti vähissä. Pysäytä tallennus automaattisesti.</string>
+    <string name="video_bad_performance_drop_quality">Muisti vähissä. Muuta laatua automaattisesti.</string>
+    <string name="video_camera_label">"Videokamera"</string>
+    <string name="video_quality_title">"Videon laatu"</string>
+    <string name="video_reach_size_limit">"Videon koko on suurin mahdollinen."</string>
+    <string name="video_recording_error">Virhe tallennuksen aikana!</string>
+    <string name="video_recording_not_available">Pysäytä muut tallennussovellukset ennen videokameran käyttöä.</string>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="accessibility_mode">Način rada kamere</string>
+    <string name="accessibility_setting">Podešavanje</string>
+    <string name="accessibility_shutter">"Gumb Okidač"</string>
+    <string name="accessibility_switch_to_panorama">Panoramski način</string>
+    <string name="accessibility_thumbnail">"Najnovija fotografija"</string>
+    <string name="aeaf_lock_indicator">AE/AF brava</string>
+    <string name="ais_title">Protiv trešnje</string>
+    <string name="asd_hdr_guide">Uključivanjem HDR-a može se postići bolji foto efekt</string>
+    <string name="camera_label">"Fotoaparat"</string>
+    <string name="can_not_use_storage">SD kartica nije dostupna</string>
+    <string name="continuous_saving_pictures">Sprema se <ns1:g example="10" id="numbers">%1$d</ns1:g> slika</string>
+    <string name="microphone_title">"Mikrofon"</string>
+    <string name="mode_fragment_title">Načinirada</string>
+    <string name="noise_reduction_title">Smanjenje buke</string>
+    <string name="normal_mode_title">"Uobičajena"</string>
+    <string name="pano_dialog_title">"Panorama"</string>
+    <string name="panorama_guide_capture">Pomičiteuređajkakobisepreklopiledvijelinije</string>
+    <string name="panorama_guide_choose_direction">Pomakniteuređajpremavašemsmjerusnimanja</string>
+    <string name="panorama_guide_shutter">Pritisnite zatvarač za početak snimanja panorame</string>
+    <string name="pref_af_mode_multi">AF u više zona</string>
+    <string name="pref_af_mode_single">AF u jednoj točki</string>
+    <string name="pref_af_mode_title">AF način</string>
+    <string name="pref_camera_antibanding_entry_50hz">50 Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60 Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">"Automatski"</string>
+    <string name="pref_camera_antibanding_entry_off">"Isključeno"</string>
+    <string name="pref_camera_antibanding_title">Onemogućavanje treperenja</string>
+    <string name="pref_camera_brightness_title">"Svjetlina"</string>
+    <string name="pref_camera_coloreffect_entry_aqua">Voda</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Crna ploča</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">Plava nijansa</string>
+    <string name="pref_camera_coloreffect_entry_greentint">Zelena nijansa</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Filmski</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Blistavo</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">Mozaik</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Svježe</string>
+    <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
+    <string name="pref_camera_coloreffect_entry_none">"Ništa"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">Pastela</string>
+    <string name="pref_camera_coloreffect_entry_posterize">Posteriziraj</string>
+    <string name="pref_camera_coloreffect_entry_redtint">Crvena nijansa</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Sepija"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Sepija plava</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Sepija zelena</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Elegantno</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Solariziraj</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Mirno</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Cool"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Bijela ploča</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Memorija</string>
+    <string name="pref_camera_coloreffect_title">Efekt boje</string>
+    <string name="pref_camera_contrast_title">"S kontrastom"</string>
+    <string name="pref_camera_dip_entry_high">"Visoki"</string>
+    <string name="pref_camera_dip_entry_low">"Niski"</string>
+    <string name="pref_camera_dip_entry_middle">"Srednji"</string>
+    <string name="pref_camera_edge_title">"Oštrina"</string>
+    <string name="pref_camera_hue_title">"Ton"</string>
+    <string name="pref_camera_image_properties_default">"Zadano"</string>
+    <string name="pref_camera_image_properties_title">Svojstva slike</string>
+    <string name="pref_camera_iso_entry_auto">"Automatski"</string>
+    <string name="pref_camera_picturesize_title">"Veličina slike"</string>
+    <string name="pref_camera_saturation_title">"Zasićenost"</string>
+    <string name="pref_camera_scenemode_entry_action">"Radnja"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Automatski"</string>
+    <string name="pref_camera_scenemode_entry_beach">Plaža</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Svjetlo svijeće</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Vatromet</string>
+    <string name="pref_camera_scenemode_entry_landscape">Pejzaž</string>
+    <string name="pref_camera_scenemode_entry_night">"Noć"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Noćni portret</string>
+    <string name="pref_camera_scenemode_entry_off">"Isključeno"</string>
+    <string name="pref_camera_scenemode_entry_party">"Zabava"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Portret</string>
+    <string name="pref_camera_scenemode_entry_snow">Snijeg</string>
+    <string name="pref_camera_scenemode_entry_sports">Sport</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Mirna fotografija</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Zalazak sunca"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Kazalište</string>
+    <string name="pref_camera_scenemode_title">"Način scene"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Automatski"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Oblačno"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Dnevno svjetlo"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Fluorescentno"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Svjetlosni izvor sa žarnom niti"</string>
+    <string name="pref_camera_whitebalance_entry_shade">Sjena</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Žarulja</string>
+    <string name="pref_camera_whitebalance_entry_twilight">Sumrak</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">Toplo fluorescentno</string>
+    <string name="pref_camera_whitebalance_title">"Balans bijele boje"</string>
+    <string name="pref_thermal_dialog_content">emperaturauređajajeprevisokapaćesekameraautomatskizatvoritiza30sekundi.Pokušajtejekoristitikasnije.</string>
+    <string name="pref_thermal_dialog_content_launch">Temperaturauređajajeprevisoka,koristitekamerukasnije.</string>
+    <string name="pref_thermal_dialog_title">Upozorenje</string>
+    <string name="pref_thermal_preview_toast">Dodirnite zaslon za nastavak.</string>
+    <string name="saving_dialog_default_string">spremanje...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string name="self_timer_entry_10">"10 sekundi"</string>
+    <string name="self_timer_entry_2">"2 sekunde"</string>
+    <string name="self_timer_entry_off">"Isključeno"</string>
+    <string name="self_timer_title">Automatski tajmer</string>
+    <string name="setting_title">"Postavke"</string>
+    <string name="shutter_speed_entry_1">1 sekunda</string>
+    <string name="shutter_speed_entry_16">16 sekundi</string>
+    <string name="shutter_speed_entry_2">"2 sekunde"</string>
+    <string name="shutter_speed_entry_4">"4 sekunde"</string>
+    <string name="shutter_speed_entry_8">"8 sekundi"</string>
+    <string name="shutter_speed_entry_auto">"Automatski"</string>
+    <string name="shutter_speed_title">Brzina zatvarača</string>
+    <string name="shutter_type_photo">"Slika"</string>
+    <string name="shutter_type_video">"Videozapis"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Zadana pohrana je puna, oslobodite nešto prostora ili drukčije organizirajte opcije za pohranu u postavkama.</string>
+    <string name="video_bad_performance_auto_stop">Malo memorije, automatsko zaustavljanje snimanja.</string>
+    <string name="video_bad_performance_drop_quality">Malo memorije, automatska promjena kvalitete.</string>
+    <string name="video_camera_label">"Kamera"</string>
+    <string name="video_quality_title">"Videokvaliteta"</string>
+    <string name="video_reach_size_limit">"Dostignuto je ograničenje veličine."</string>
+    <string name="video_recording_error">Greška tijekom snimanja!</string>
+    <string name="video_recording_not_available">Zaustavite ostale aplikacije za snimanje prije korištenje video kamere.</string>
+</resources>

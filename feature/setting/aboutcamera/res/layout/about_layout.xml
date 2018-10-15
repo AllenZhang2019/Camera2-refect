@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#222222">
+
+    <ImageView
+        android:id="@+id/freemeabout_app_icon_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/freemeabout_icon_margin_bottom"
+        android:layout_marginTop="@dimen/freemeabout_icon_margin_top" />
+
+    <TextView
+        android:id="@+id/freemeabout_app_name_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/freemeabout_app_icon_iv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/freemeabout_title_margin_bottom"
+        android:text="@string/freemeabout"
+        android:textColor="@color/freemeabout_rightcopy_color"
+        android:textSize="@dimen/freemeabout_title_text_size" />
+
+    <LinearLayout
+        android:id="@+id/freemeabout_version_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/freemeabout_app_name_tv"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/freemeabout_version_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/freemeabout_current_version"
+            android:textColor="@color/freemeabout_rightcopy_color"
+            android:textSize="@dimen/freemeabout_copyright_text_size" />
+
+        <TextView
+            android:id="@+id/freemeabout_versonname_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/freemeabout_version_margin_top"
+            android:textColor="@color/freemeabout_hint_color"
+            android:textSize="@dimen/freemeabout_copyright_text_size" />
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/freemeabout_copyright_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/freemeabout_copyright_margin_bottom">
+
+        <TextView
+            android:id="@+id/freemeabout_copyright_tvb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/freemeabout_droi"
+            android:textColor="@color/freemeabout_rightcopy_color"
+            android:textSize="@dimen/freemeabout_copyright_text_size" />
+    </RelativeLayout>
+</RelativeLayout>

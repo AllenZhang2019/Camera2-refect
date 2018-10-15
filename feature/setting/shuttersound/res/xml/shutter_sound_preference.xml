@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freeme.camera.common.preference.SwitchPreference
+        android:key="key_shutter_sound"
+        android:title="@string/shutter_sound_title"
+        android:persistent="false"
+        android:order="80"/>
+</PreferenceScreen>

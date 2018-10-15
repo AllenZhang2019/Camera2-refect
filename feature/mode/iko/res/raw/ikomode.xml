@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin
+    id="ikoplugin"
+    name="iko"
+    version="1">
+
+    <extension
+        id="iko"
+        name="iko extension"
+        class="com.freeme.camera.feature.mode.iko.IKOEntry"
+        plugin-id="cameraplugin"
+        point-id="FeatureEntryBase">
+    </extension>
+</plugin>

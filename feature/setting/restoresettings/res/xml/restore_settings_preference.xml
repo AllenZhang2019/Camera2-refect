@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.freeme.camera.common.preference.Preference
+        android:key="key_restore_settings"
+        android:title="@string/restore_settings_title"
+        android:persistent="false"
+        android:order="150"
+        android:layout="@layout/restore_settings_layout"
+        />
+    <!--android:layout="@layout/restore_settings_layout"-->
+</PreferenceScreen>

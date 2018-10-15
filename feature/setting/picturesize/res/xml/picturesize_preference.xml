@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/freeme_settings_capture_category" android:order="10"></PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/freeme_settings_general_category" android:order="110"></PreferenceCategory>
+    <com.freeme.camera.common.preference.Preference
+        android:key="key_picture_size"
+        android:title="@string/pref_camera_picturesize_title"
+        android:persistent="false"
+        android:order="120"/>
+</PreferenceScreen>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auto_exit_title" translatable="false">Auto Exit</string>
+    <string name="auto_exit_content_description" translatable="false">Auto Exit</string>
+</resources>

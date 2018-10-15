@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="restore_settings_title" translatable="false">Restore Settings</string>
+    <string name="restore_settings_content_description" translatable="false">Restore Settings</string>
+    <string name="confirm_restore_message">"Continue to restore Camera's default settings?"</string>
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="accessibility_mode">Λειτουργία κάμερας</string>
+    <string name="accessibility_setting">Ρύθμιση</string>
+    <string name="accessibility_shutter">"Κουμπί κλείστρου"</string>
+    <string name="accessibility_switch_to_panorama">Πανοραμική λειτουργία</string>
+    <string name="accessibility_thumbnail">"Πιο πρόσφατη φωτογραφία"</string>
+    <string name="aeaf_lock_indicator">Κλείδωμα ΑE/ΑF</string>
+    <string name="ais_title">Εξάλειψη κραδασμών</string>
+    <string name="asd_hdr_guide">Η ενεργοποίηση του HDR ενδέχεται να παρέχει καλύτερο εφέ στη φωτογραφία</string>
+    <string name="camera_label">"Κάμερα"</string>
+    <string name="can_not_use_storage">Η κάρτα SD δεν είναι διαθέσιμη</string>
+    <string name="continuous_saving_pictures">Αποθήκευση  <ns1:g example="10" id="numbers">%1$d</ns1:g> εικόνων </string>
+    <string name="microphone_title">"Μικρόφωνο"</string>
+    <string name="mode_fragment_title">Λειτουργίες</string>
+    <string name="noise_reduction_title">Μείωση θορύβου </string>
+    <string name="normal_mode_title">"Κανονική"</string>
+    <string name="pano_dialog_title">"Πανόραμα"</string>
+    <string name="panorama_guide_capture">Μετακινήστετησυσκευήγιαναεπικαλύπτειτιςδύογραμμές</string>
+    <string name="panorama_guide_choose_direction">Συσκευήκινούνταιπροςτηνκατεύθυνσησύλληψησας</string>
+    <string name="panorama_guide_shutter">Πιέστε το κλείστρο για την έναρξη λήψης πανοραμικής εικόνας</string>
+    <string name="pref_af_mode_multi">AF πολλαπλού σημείου</string>
+    <string name="pref_af_mode_single">AF μονού σημείου</string>
+    <string name="pref_af_mode_title">Λειτουργία AF</string>
+    <string name="pref_camera_antibanding_entry_50hz">50Hz</string>
+    <string name="pref_camera_antibanding_entry_60hz">60Hz</string>
+    <string name="pref_camera_antibanding_entry_auto">Αυτόματα</string>
+    <string name="pref_camera_antibanding_entry_off">"απενεργοποιημένη"</string>
+    <string name="pref_camera_antibanding_title">Σταθεροποίηση κάδρου</string>
+    <string name="pref_camera_brightness_title">Φωτεινότητα</string>
+    <string name="pref_camera_coloreffect_entry_aqua">"Γαλάζιο"</string>
+    <string name="pref_camera_coloreffect_entry_blackboard">Μαυροπίνακας</string>
+    <string name="pref_camera_coloreffect_entry_bluetint">"Μπλε απόχρωση"</string>
+    <string name="pref_camera_coloreffect_entry_greentint">"Πράσινη απόχρωση"</string>
+    <string name="pref_camera_coloreffect_entry_hefe">Ταινία</string>
+    <string name="pref_camera_coloreffect_entry_lofi">Υπεροχή</string>
+    <string name="pref_camera_coloreffect_entry_mono">"Μονοφωνικό"</string>
+    <string name="pref_camera_coloreffect_entry_mosaic">"Μωσαϊκό"</string>
+    <string name="pref_camera_coloreffect_entry_nashville">Φρεσκάδα</string>
+    <string name="pref_camera_coloreffect_entry_negative">"Αρνητικό"</string>
+    <string name="pref_camera_coloreffect_entry_none">"Καμία"</string>
+    <string name="pref_camera_coloreffect_entry_pastel">"Παστέλ"</string>
+    <string name="pref_camera_coloreffect_entry_posterize">"Ποστεροποίηση"</string>
+    <string name="pref_camera_coloreffect_entry_redtint">"Κόκκινη απόχρωση"</string>
+    <string name="pref_camera_coloreffect_entry_sepia">"Σέπια"</string>
+    <string name="pref_camera_coloreffect_entry_sepiablue">Μπλε σέπια</string>
+    <string name="pref_camera_coloreffect_entry_sepiagreen">Πράσινο σέπια</string>
+    <string name="pref_camera_coloreffect_entry_sierra">Κομψότητα</string>
+    <string name="pref_camera_coloreffect_entry_solarize">Υπερφώτιση</string>
+    <string name="pref_camera_coloreffect_entry_valencia">Ηρεμία</string>
+    <string name="pref_camera_coloreffect_entry_walden">"Cool"</string>
+    <string name="pref_camera_coloreffect_entry_whiteboard">Ασπροπίνακας</string>
+    <string name="pref_camera_coloreffect_entry_xproll">Μνήμη</string>
+    <string name="pref_camera_coloreffect_title">Εφέ χρώματος</string>
+    <string name="pref_camera_contrast_title">Αντίθεση</string>
+    <string name="pref_camera_dip_entry_high">Υψηλή</string>
+    <string name="pref_camera_dip_entry_low">Χαμηλή</string>
+    <string name="pref_camera_dip_entry_middle">Μέτριο</string>
+    <string name="pref_camera_edge_title">Ευκρίνεια</string>
+    <string name="pref_camera_hue_title">Απόχρωση</string>
+    <string name="pref_camera_image_properties_default">"Προεπιλογή"</string>
+    <string name="pref_camera_image_properties_title">Ιδιότητες εικόνας</string>
+    <string name="pref_camera_iso_entry_auto">Αυτόματα</string>
+    <string name="pref_camera_picturesize_title">"Μέγεθος εικόνας"</string>
+    <string name="pref_camera_saturation_title">Κορεσμός</string>
+    <string name="pref_camera_scenemode_entry_action">"Ενέργεια"</string>
+    <string name="pref_camera_scenemode_entry_auto">"Αυτόματο"</string>
+    <string name="pref_camera_scenemode_entry_beach">Παραλία</string>
+    <string name="pref_camera_scenemode_entry_candlelight">Φως κεριών</string>
+    <string name="pref_camera_scenemode_entry_fireworks">Πυροτεχνήματα</string>
+    <string name="pref_camera_scenemode_entry_landscape">Οριζόντιος προσανατολισμός</string>
+    <string name="pref_camera_scenemode_entry_night">"Νύχτα"</string>
+    <string name="pref_camera_scenemode_entry_night_portrait">Νυχτερινό πορτραίτο</string>
+    <string name="pref_camera_scenemode_entry_off">"απενεργοποιημένη"</string>
+    <string name="pref_camera_scenemode_entry_party">"Πάρτι"</string>
+    <string name="pref_camera_scenemode_entry_portrait">Κατακόρυφος προσανατολισμός</string>
+    <string name="pref_camera_scenemode_entry_snow">Χιόνι</string>
+    <string name="pref_camera_scenemode_entry_sports">"Ενέργεια"</string>
+    <string name="pref_camera_scenemode_entry_steadyphoto">Σταθερή φωτογραφία</string>
+    <string name="pref_camera_scenemode_entry_sunset">"Ηλιοβασίλεμα"</string>
+    <string name="pref_camera_scenemode_entry_theatre">Θέατρο</string>
+    <string name="pref_camera_scenemode_title">"Λειτουργία σκηνής"</string>
+    <string name="pref_camera_whitebalance_entry_auto">"Αυτόματο"</string>
+    <string name="pref_camera_whitebalance_entry_cloudy">"Συννεφιά"</string>
+    <string name="pref_camera_whitebalance_entry_daylight">"Φως ημέρας"</string>
+    <string name="pref_camera_whitebalance_entry_fluorescent">"Λαμπτήρας φθορισμού"</string>
+    <string name="pref_camera_whitebalance_entry_incandescent">"Λαμπτήρας πυρακτώσεως"</string>
+    <string name="pref_camera_whitebalance_entry_shade">"Σκιά"</string>
+    <string name="pref_camera_whitebalance_entry_tungsten">Βολφράμιο</string>
+    <string name="pref_camera_whitebalance_entry_twilight">"Λυκόφως"</string>
+    <string name="pref_camera_whitebalance_entry_warm_fluorescent">"Θερμός λαμπτήρας φθορισμού"</string>
+    <string name="pref_camera_whitebalance_title">"Ισορροπία λευκού"</string>
+    <string name="pref_thermal_dialog_content">Θερμοκρασίατηςσυσκευήςείναιπολύυψηλήκαιηκάμεραθαεξέλθειαυτόματασε30δευτερόλεπτα.Παρακαλώδοκιμάστενατοχρησιμοποιήσετεαργότερα.</string>
+    <string name="pref_thermal_dialog_content_launch">Θερμοκρασίατηςσυσκευήςείναιπολύυψηλή,μπορείτεναχρησιμοποιήσετετηνκάμερααργότερα.</string>
+    <string name="pref_thermal_dialog_title">Προειδοποίηση</string>
+    <string name="pref_thermal_preview_toast">Αγγίξτε την οθόνη για να συνεχίσετε.</string>
+    <string name="saving_dialog_default_string">Αποθήκευση...</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="self_timer_entry_10">10 δευτερόλεπτα</string>
+    <string name="self_timer_entry_2">2 δευτερόλεπτα</string>
+    <string name="self_timer_entry_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΜΕΝΟ"</string>
+    <string name="self_timer_title">Αυτόματος χρονοδιακόπτης</string>
+    <string name="setting_title">"Ρυθμίσεις"</string>
+    <string name="shutter_speed_entry_1">1 δευτερόλεπτο</string>
+    <string name="shutter_speed_entry_16">16 δευτερόλεπτα</string>
+    <string name="shutter_speed_entry_2">"2 δευτερόλεπτα"</string>
+    <string name="shutter_speed_entry_4">"4 δευτερόλεπτα"</string>
+    <string name="shutter_speed_entry_8">"8 δευτερόλεπτα"</string>
+    <string name="shutter_speed_entry_auto">"Αυτόματο"</string>
+    <string name="shutter_speed_title">Ταχύτητα κλείστρου</string>
+    <string name="shutter_type_photo">"Εικόνα"</string>
+    <string name="shutter_type_video">"Βίντεο"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_full">Η προεπιλεγμένη αποθήκευση είναι πλήρης. Απελευθερώστε λίγο χώρο ή διαχειριστείτε τις επιλογές αποθήκευσης στις ρυθμίσεις </string>
+    <string name="video_bad_performance_auto_stop">Ανεπαρκής μνήμη, αυτόματη διακοπή εγγραφής.</string>
+    <string name="video_bad_performance_drop_quality">Ανεπαρκής μνήμη, αυτόματη αλλαγή ποιότητας.</string>
+    <string name="video_camera_label">"Βιντεοκάμ."</string>
+    <string name="video_quality_title">"Ποιότητα βίντεο"</string>
+    <string name="video_reach_size_limit">"Συμπληρώθηκε το όριο μεγέθους."</string>
+    <string name="video_recording_error">Σφάλμα κατά την εγγραφή!</string>
+    <string name="video_recording_not_available">Διακόψτε άλλες εφαρμογές εγγραφής πριν από τη χρήση της βιντεοκάμερας.</string>
+</resources>
